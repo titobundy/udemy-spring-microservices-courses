@@ -3,7 +3,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/titobundy/microservices-spring
+          uri: https://github.com/titobundy/udemy-spring-microservices-courses
+          searchPaths: config
 
 server:
   port: 8001
