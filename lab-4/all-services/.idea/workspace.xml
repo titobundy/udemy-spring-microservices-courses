@@ -20,49 +20,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../lab-4-eureka-server/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="99">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="68" selection-end-column="90" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../lab-4-eureka-server/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Lab4SentenceApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../lab-4-sentence/src/main/java/demo/Lab4SentenceApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../lab-4-sentence/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../lab-4-noun/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="66" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../lab-4-noun/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -93,111 +61,75 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="52" />
-    <option name="width" value="1912" />
-    <option name="height" value="1079" />
+    <option name="x" value="1920" />
+    <option name="y" value="-1" />
+    <option name="width" value="1920" />
+    <option name="height" value="1082" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-adjective" type="462c0819:PsiDirectoryNode" />
+              <item name="lab3-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-adjective" type="462c0819:PsiDirectoryNode" />
+              <item name="lab3-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-adjective" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-adjective" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-eureka-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="lab3-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="lab3-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lab3server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab-4-eureka-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab-4-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab-4-eureka-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-noun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-noun" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-noun" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-noun" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-sentence" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-sentence" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-sentence" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="all-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab-4-sentence" type="462c0819:PsiDirectoryNode" />
+              <item name="lab-4-eureka-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -206,7 +138,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -362,15 +295,19 @@
       <option name="presentableId" value="Default" />
       <updated>1532377673973</updated>
       <workItem from="1532377678728" duration="3324000" />
-      <workItem from="1532450027720" duration="4930000" />
+      <workItem from="1532450027720" duration="6174000" />
+      <workItem from="1532460780752" duration="695000" />
+      <workItem from="1532462002057" duration="3345000" />
+      <workItem from="1532465769871" duration="1333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8254000" />
+    <option name="totallyTimeSpent" value="14871000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1920" height="1032" extended-state="6" />
+    <frame x="1920" y="-1" width="1920" height="1082" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50052136" side_tool="true" weight="0.32938644" />
@@ -384,27 +321,27 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run Dashboard" order="7" sideWeight="0.49947864" weight="0.32781458" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="7" sideWeight="0.49947864" visible="true" weight="0.31066945" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32938644" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3200883" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25587606" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3200883" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26121795" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,6 +351,67 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../lab-3/lab3-server/src/main/java/demo/lab3server/Lab3ServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lab-3/lab3-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lab-4-sentence/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="65" lean-forward="true" selection-start-line="45" selection-start-column="65" selection-end-line="45" selection-end-column="65" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lab-4-eureka-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lab-4-eureka-server/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lab-4-sentence/src/main/java/demo/Lab4SentenceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lab-4-noun/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="66" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lab-4-noun/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lab-4-sentence/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../lab-4-eureka-server/src/main/java/demo/Lab4EurekaServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -477,16 +475,6 @@
     <entry file="file://$PROJECT_DIR$/../lab-4-adjective/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../lab-4-eureka-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../lab-4-eureka-server/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../lab-4-sentence/src/main/java/demo/Lab4SentenceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -507,7 +495,57 @@
     <entry file="file://$PROJECT_DIR$/../lab-4-sentence/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lab-3/lab3-server/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1644" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lab-3/lab3-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lab-4-sentence/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="45" column="65" selection-start-line="45" selection-start-column="65" selection-end-line="45" selection-end-column="65" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lab-3/lab3-server/src/main/java/demo/lab3server/Lab3ServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lab-3/lab3-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lab-4-eureka-server/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lab-4-eureka-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="68" selection-end-column="90" />
         </state>
       </provider>
     </entry>
@@ -588,7 +626,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
