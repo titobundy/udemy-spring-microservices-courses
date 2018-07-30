@@ -295,12 +295,12 @@
       <option name="presentableId" value="Default" />
       <updated>1532960595966</updated>
       <workItem from="1532960598909" duration="3627000" />
-      <workItem from="1532965101275" duration="4737000" />
+      <workItem from="1532965101275" duration="5119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8364000" />
+    <option name="totallyTimeSpent" value="8746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
@@ -322,12 +322,12 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run Dashboard" order="7" visible="true" weight="0.32910052" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="7" visible="true" weight="0.32910052" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32910052" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32910052" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25133404" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25133404" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -644,11 +644,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>lab-7-sentence-server-solution-reactive</last-edited>
+          <last-edited>lab-7-sentence-server</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -668,7 +669,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
