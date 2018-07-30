@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../eureka-server/commmon-eureka-server.iml" filepath="$PROJECT_DIR$/../eureka-server/commmon-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../config-server/common-config-server.iml" filepath="$PROJECT_DIR$/../config-server/common-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gateway/lab-9-gateway.iml" filepath="$PROJECT_DIR$/../gateway/lab-9-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../word-server/lab-9-word-server-solution.iml" filepath="$PROJECT_DIR$/../word-server/lab-9-word-server-solution.iml" />
+    </modules>
+  </component>
+</project>
