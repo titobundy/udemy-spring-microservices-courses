@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../eureka-server/commmon-eureka-server.iml" filepath="$PROJECT_DIR$/../eureka-server/commmon-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../config-server/common-config-server.iml" filepath="$PROJECT_DIR$/../config-server/common-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sentence-server/lab-7-sentence-server.iml" filepath="$PROJECT_DIR$/../sentence-server/lab-7-sentence-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sentence-server-solution-reactive/lab-7-sentence-server-solution-reactive.iml" filepath="$PROJECT_DIR$/../sentence-server-solution-reactive/lab-7-sentence-server-solution-reactive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../word-server/lab-7-word-server.iml" filepath="$PROJECT_DIR$/../word-server/lab-7-word-server.iml" />
+    </modules>
+  </component>
+</project>
